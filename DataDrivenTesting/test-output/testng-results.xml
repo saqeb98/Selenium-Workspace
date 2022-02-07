@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63538" started-at="2021-10-11T04:20:46Z" finished-at="2021-10-11T04:21:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63538" started-at="2021-10-11T04:20:46Z" finished-at="2021-10-11T04:21:50Z">
+      <class name="demoWebShopTestCase.RegisterTC">
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="7352" started-at="2021-10-11T09:50:47Z" data-provider="data" finished-at="2021-10-11T09:50:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shree]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mmmmm@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Manju1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Manju1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="6575" started-at="2021-10-11T09:50:54Z" data-provider="data" finished-at="2021-10-11T09:51:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rachitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rrrrrr@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rachitha1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rachitha1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="6608" started-at="2021-10-11T09:51:01Z" data-provider="data" finished-at="2021-10-11T09:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rocking]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yyyy@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Yash1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Yash1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="7027" started-at="2021-10-11T09:51:07Z" data-provider="data" finished-at="2021-10-11T09:51:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Radika]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pandit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rrr@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Radika1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Radika1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="7439" started-at="2021-10-11T09:51:15Z" data-provider="data" finished-at="2021-10-11T09:51:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Puneeth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rajkumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ppp@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Puneeth1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Puneeth1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="7379" started-at="2021-10-11T09:51:22Z" data-provider="data" finished-at="2021-10-11T09:51:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Salena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gomez]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssss@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Salena1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Salena1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="6834" started-at="2021-10-11T09:51:29Z" data-provider="data" finished-at="2021-10-11T09:51:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Taylor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Swift]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TTTTT@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Taylor1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Taylor1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="6458" started-at="2021-10-11T09:51:36Z" data-provider="data" finished-at="2021-10-11T09:51:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shradha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kapoor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ss@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shradha1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Shradha1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demoWebShopTestCase.RegisterTC@482f8f11]" name="tc01" duration-ms="7124" started-at="2021-10-11T09:51:43Z" data-provider="data" finished-at="2021-10-11T09:51:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Varun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dawan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vv@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Varun1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Varun1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- demoWebShopTestCase.RegisterTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
