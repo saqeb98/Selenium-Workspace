@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="General">
+	<test name="Test">
+		<classes>
+			<class name="excersice1.TC02" />
+			<class name="excersice1.TC03">
+				<methods>
+					<exclude name="uber"></exclude>
+					<exclude name="amazon"></exclude>
+				</methods>
+
+			</class>
+		</classes>
+	</test> <!-- Test -->
+
+
+
+
+	<test name="Shopping">
+		<classes>
+			<class name="excersice1.TC01">
+				<methods>
+					<exclude name="apple"></exclude>
+					<include name="apple"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->
+
+
