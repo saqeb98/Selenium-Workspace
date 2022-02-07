@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35612" started-at="2021-10-07T15:32:33Z" finished-at="2021-10-07T15:33:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35612" started-at="2021-10-07T15:32:33Z" finished-at="2021-10-07T15:33:09Z">
+      <class name="com.OrangeHrm.TCOfOrangeHRM">
+        <test-method status="PASS" signature="TC01(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TCOfOrangeHRM@6cc4c815]" name="TC01" duration-ms="33909" started-at="2021-10-07T21:02:33Z" data-provider="Data" finished-at="2021-10-07T21:03:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="tc02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TCOfOrangeHRM@6cc4c815]" name="tc02" duration-ms="1668" started-at="2021-10-07T21:03:07Z" data-provider="userData" finished-at="2021-10-07T21:03:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[joe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rohan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rohan1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rohan1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- com.OrangeHrm.TCOfOrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
